@@ -4,6 +4,10 @@
 
 드로이드나이츠는 기술 세션으로 개발자들의 경험을 공유하는 안드로이드 컨퍼런스입니다.
 
+## 분석 & 정리 (hegunhee)
+해당 레포지토리를 통해 기술을 분석하고 정리해놓은 링크입니다.  
+https://unleashed-redcurrant-8ed.notion.site/DroidKnight-2023-eeafd164724046e7974fbf137cc33bd8?pvs=4
+
 ## Guide
 
 ### Contributions Welcome!
